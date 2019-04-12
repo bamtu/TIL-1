@@ -15,3 +15,5 @@ C++ : Algorithm Problem in SW Expert Academy<br />
 ---------------------------------------------------
 > 2019-04-11 : SW_5650 : 핀볼게임<br />
 > https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRF8s6ezEDFAUo <br />
+> 2019-04-13 : SW_5656 : 벽돌깨기<br />
+> https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRQm6qfL0DFAUo <br />
