@@ -23,3 +23,5 @@ C++ : Algorithm Problem in SW Expert Academy<br />
 > https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWl0ZQ8qn7UDFAXz&categoryId=AWl0ZQ8qn7UDFAXz&categoryType=CODE <br />
 > 2019-05-04 : SW_5658 : 보물상자 비밀번호<br />
 > https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRUN9KfZ8DFAUo <br />
+> 2019-06-26 : SW_7829 : 보물왕 태혁 <br>
+> https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWtInr3auH0DFASy <br>
