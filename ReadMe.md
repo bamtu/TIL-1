@@ -25,3 +25,9 @@ C++ : Algorithm Problem in SW Expert Academy<br />
 > https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRUN9KfZ8DFAUo <br />
 > 2019-06-26 : SW_7829 : 보물왕 태혁 <br>
 > https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWtInr3auH0DFASy <br>
+<br>
+
+C++ : Algorithm Problem in Programmers <br>
+-------------------------------------------
+> 2019-06-27 : Stack_Queue : 다리를 지나는 트럭<br>
+> https://programmers.co.kr/learn/courses/30/lessons/42583?language=cpp <br>
