@@ -31,3 +31,10 @@ C++ : Algorithm Problem in Programmers <br>
 -------------------------------------------
 > 2019-06-27 : Stack_Queue : 다리를 지나는 트럭<br>
 > https://programmers.co.kr/learn/courses/30/lessons/42583?language=cpp <br>
+> 2019-08-23 : DFS : 타겟 넘버<br>
+> https://programmers.co.kr/learn/courses/30/lessons/43165?language=cpp <br>
+
+C++ : Algorithm Problem in BackJoon <br>
+----------------------------------------
+> 2019-08-23 : DFS_10026 : 적록색약<br>
+> https://www.acmicpc.net/problem/10026<br>
