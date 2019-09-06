@@ -1,5 +1,5 @@
 ﻿TIL(Today I Learned) Repository
-===============================
+===============================공부하지마!
 
 JAVA : Algorithm Problem in SW Expert Academy<br />
 ----------------------------------------------------
